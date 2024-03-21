@@ -1,4 +1,4 @@
-def reverse(text: str) -> str:
+def reverse(text: str) -> str: #mój komentarz
     """
     Return the 'text' backwards.
 
